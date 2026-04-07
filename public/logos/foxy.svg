@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" fill="none">
+  <text x="10" y="62" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="68" fill="white" letter-spacing="-2">FO</text>
+  <!-- X with colorful stripes -->
+  <g transform="translate(108, 8)">
+    <polygon points="0,54 8,0 12,0 4,54" fill="#E85D3A"/>
+    <polygon points="4,54 12,0 16,0 8,54" fill="#F5A623"/>
+    <polygon points="8,54 16,0 20,0 12,54" fill="#4A90D9"/>
+    <polygon points="12,54 20,0 24,0 16,54" fill="#7B61FF"/>
+    <polygon points="16,54 24,0 28,0 20,54" fill="#E85D3A"/>
+    <polygon points="24,54 16,0 12,0 20,54" fill="#F5A623"/>
+    <polygon points="20,54 12,0 8,0 16,54" fill="#D35400"/>
+    <polygon points="28,54 20,0 16,0 24,54" fill="#C0392B"/>
+  </g>
+  <text x="140" y="62" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="68" fill="white" letter-spacing="-2">Y</text>
+</svg>
