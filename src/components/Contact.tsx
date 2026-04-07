@@ -27,11 +27,11 @@ export default function Contact() {
           Contact
         </p>
         <h2 className="text-3xl md:text-5xl font-bold tracking-tight mb-6">
-          Let&apos;s Work Together
+          Building Something New
         </h2>
         <p className="text-muted text-lg max-w-md mx-auto mb-12">
-          I&apos;m always open to interesting conversations and new
-          opportunities. Say hello.
+          I&apos;m building something new in stealth right now — but always
+          happy to make new friends. Say hello.
         </p>
 
         <div className="flex items-center justify-center gap-6">
